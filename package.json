@@ -1,0 +1,19 @@
+{
+  "name": "desafio3ramirezpb-js",
+  "version": "1.0.0",
+  "description": "Tercer desafío entregable del curso de Programación Backend de CoderHouse.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darién Julián Ramirez Estevez",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
